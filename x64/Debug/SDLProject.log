@@ -1,0 +1,6 @@
+﻿  Source.cpp
+D:\Users\sglas\Documents\GitHub\SDLProject\src\Source.cpp(34,19): warning C4244: 'initializing': conversion from 'Uint64' to 'float', possible loss of data
+D:\Users\sglas\Documents\GitHub\SDLProject\src\Source.cpp(44,41): warning C4244: '=': conversion from 'Uint64' to 'float', possible loss of data
+D:\Users\sglas\Documents\GitHub\SDLProject\src\Source.cpp(46,55): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Users\sglas\Documents\GitHub\SDLProject\src\Source.cpp(291,60): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  SDLProject.vcxproj -> D:\Users\sglas\Documents\GitHub\SDLProject\x64\Debug\SDLProject.exe
